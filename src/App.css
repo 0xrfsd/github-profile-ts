@@ -1,0 +1,24 @@
+.App {
+  padding: 20px 20px;
+  text-align: center;
+  flex-direction: row !important;
+  display: flex !important;
+}
+
+.body {
+  margin-top: 60px;
+  margin-left: 20px;
+  flex-direction: column !important;
+  display: flex !important;
+}
+
+.image {
+  display: flex;
+  border-radius: 100%;
+  width: 200px;
+  height: auto;
+}
+
+.a {
+  text-align: left;
+}
